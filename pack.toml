@@ -1,0 +1,12 @@
+name = "Slime Grounds"
+author = "copygirl"
+version = "1.0.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "6f001b412767312582e9e66b2c2e3903aff7a7ec004815865839e3a55e1efc2e"
+
+[versions]
+forge = "36.2.4"
+minecraft = "1.16.5"

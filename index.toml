@@ -1,0 +1,260 @@
+hash-format = "sha256"
+
+[[files]]
+file = "README.md"
+hash = "9f515e6351a9535c29a7e9e2d92c5e8c338abc4da45f4315dc14c8daa4a28e40"
+
+[[files]]
+file = "config/MouseTweaks.cfg"
+hash = "f565081d0e3724cbdc18560f23a253098079e9d92f7e658761a3257ff2863b67"
+
+[[files]]
+file = "config/cavesandcliffs-common.toml"
+hash = "fe257290ae30b9ab6c109c7e4fbfc06ed84823f0fd63a2072ff1906240a8fb56"
+
+[[files]]
+file = "config/cgm-client.toml"
+hash = "f8baa1eb8d5819ecf9db0bb7075a2db9417f0778eaf188248110740a8c573ddc"
+
+[[files]]
+file = "config/create-common.toml"
+hash = "3099020b594f9ad48a1380f5e4fc877e0d598d00e17a351dd22daf4bf80de93c"
+
+[[files]]
+file = "config/fml.toml"
+hash = "de86d03dd24dd490017a9a74fa2dd09762d252743a000f4ebdbf7f7e433b19c0"
+
+[[files]]
+file = "config/forgery/features.ini"
+hash = "24707995b4cfb411dee7c51f8f227419c5237291e14d71e3f606d778ae24296a"
+
+[[files]]
+file = "config/immersive_portals-common.toml"
+hash = "29a58fb61cf00e03a18f4c2cecd694345e174a3318bc164293d525000f48314b"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "eda4e09a5f20462e343493b0c54cfc0e539cfe7708cbb4fc6657db0bca6e6a25"
+
+[[files]]
+file = "kubejs/README.txt"
+hash = "35e3c6ff70236e1bb6bf1f12fdbabc9a3e9941cb4e3c3567b5c697d34b210b36"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/raw_zinc_block.png"
+hash = "976c873ae4a877a140218e3494c95529a4c4aff10eb3d2df07de6e8f202ded9e"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/raw_zinc.png"
+hash = "84bbe0a9d7236ff77dfed0972fe1e9cd7f4723b56eabb5472f84eeaf5233296c"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "3631984f2fd4a123b6c41cfedaf63ef3ee11b582c1b4c4603c74a954158bd840"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "fd8c917dfc4f40a47110682f6a2aeb9fea86314fcd87ec669795a1080fe25682"
+
+[[files]]
+file = "kubejs/data/create/loot_tables/blocks/zinc_ore.json"
+hash = "a50eed906c425ffcd50b480d643b74edea58e84a286fa11d13ab81f826099fde"
+
+[[files]]
+file = "kubejs/data/forge/tags/items/ores/zinc.json"
+hash = "cdf9d7b9f3ca00f8de47208388c34628096262594a66cc963231af4c4e35ca6e"
+
+[[files]]
+file = "kubejs/data/kubejs/recipes/raw_zinc_block.json"
+hash = "92965584aba242360c968fd0e3cc1495a4aec76945cb8a88d190dbdf160b74ea"
+
+[[files]]
+file = "kubejs/data/kubejs/recipes/raw_zinc_from_block.json"
+hash = "60ad0402dd1bc9159ea266290e600643c574e1b63f2c4a869e68706458e4a1a8"
+
+[[files]]
+file = "kubejs/exported/tags/blocks.txt"
+hash = "a6408f32e3670bf71e4cdb05a8563b170875254027b5704bc770e18107a488b3"
+
+[[files]]
+file = "kubejs/exported/tags/enchantments.txt"
+hash = "e6614ebc0caff88904f971ae1522653e7e1da0d020b3c683c2d6e102b1092b3c"
+
+[[files]]
+file = "kubejs/exported/tags/entity_types.txt"
+hash = "88de14eb854778ccebeab3346d7a5f9e8f42707864466539e1b4b4958949ae1b"
+
+[[files]]
+file = "kubejs/exported/tags/fluids.txt"
+hash = "9bf7d30c7b89c10f8708b66e7583bf3dc63ae6edbe0eb38850de25e3adc8083a"
+
+[[files]]
+file = "kubejs/exported/tags/functions.txt"
+hash = "87bb5dec0d8270cf81a7e4bbdf02217acfc6711b316848f5f31172e4ee2be092"
+
+[[files]]
+file = "kubejs/exported/tags/items.txt"
+hash = "7ddd889ffa608ff687041af301b11ef5aedf17b437336bf8729796a5c558567b"
+
+[[files]]
+file = "kubejs/exported/tags/potions.txt"
+hash = "e6614ebc0caff88904f971ae1522653e7e1da0d020b3c683c2d6e102b1092b3c"
+
+[[files]]
+file = "kubejs/exported/tags/tile_entity_types.txt"
+hash = "e6614ebc0caff88904f971ae1522653e7e1da0d020b3c683c2d6e102b1092b3c"
+
+[[files]]
+file = "kubejs/server_scripts/recipe_tweaks.js"
+hash = "f0be81bedcda1ce56321212a5505aa83aed6d971da065af3533c24f85dd4e146"
+
+[[files]]
+file = "kubejs/server_scripts/replace_copper_recipes.js"
+hash = "8451e14c33c64b586099bad5cc6c0d06f39bcf1fdf37cc3f9a96d411095e7269"
+
+[[files]]
+file = "kubejs/server_scripts/replace_copper_tags.js"
+hash = "e60d60139b7610b4ad6f57ac1b05c7abeb0f52559be13f080ca1365855ceffa7"
+
+[[files]]
+file = "kubejs/server_scripts/stair_and_slab_tweaks.js"
+hash = "1691c7bdb843eefc625fcc957158f605dcf2002c699ef34c68221b8c79092936"
+
+[[files]]
+file = "kubejs/startup_scripts/registry.js"
+hash = "87be44a48d83cebd6ba1cb4acc7d4672c3ad9335351ac22334d53903871bf711"
+
+[[files]]
+file = "mods/appleskin.toml"
+hash = "0e5929448f3105c10e8df986c97e9b1c2192cbcd6165c31c3fbcdd8103e3c9be"
+metafile = true
+
+[[files]]
+file = "mods/architectury-forge.toml"
+hash = "6ea0538e4af05279bd88256ee5baf4b3c77400e46b1358e95f04242a1cd9514e"
+metafile = true
+
+[[files]]
+file = "mods/autoreglib.toml"
+hash = "ed2dbc59edaa7a59d44ec39b9f95cae4f0a345060442a9b698e59ed549924525"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.toml"
+hash = "1c4b54c7613a2c83bf488d539550ff5e46fcfd0317bf2e49856a4f6f434416f1"
+metafile = true
+
+[[files]]
+file = "mods/cavebiomeapi.toml"
+hash = "b3e5e5dc5b64a4dd8ac098611b7ddd7a8ad5b25352b4bee3ddb6f670adf4dca5"
+metafile = true
+
+[[files]]
+file = "mods/caves-and-cliffs-backport.toml"
+hash = "cda15531d8c5854544bd7bbbf3fa14e49e54fd5f70ac6e2d9da67f8bf9c4eec6"
+metafile = true
+
+[[files]]
+file = "mods/create-stuff-additions.toml"
+hash = "a691033ae0cb02a96ebbbb1b3a7fe6cdab8385a33db350e9a83dc26c72e5dc1a"
+metafile = true
+
+[[files]]
+file = "mods/create.toml"
+hash = "8675778e4bca8e8f9166a42ededd239b64f4898a313b25ab79f3b04b93011748"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-surroundings.toml"
+hash = "722b92f8497e42363653416385fb58bf81c758f2985e659c9874194584157e18"
+metafile = true
+
+[[files]]
+file = "mods/fairy-lights.toml"
+hash = "1b419744a5f3f4fc61186c4ff475ebfa2ab0533c37a2e441f2747f198f22a79a"
+metafile = true
+
+[[files]]
+file = "mods/ferritecore.toml"
+hash = "b6481e286e28f957c75eb0b7a34ce4af856360031cdd8926a4d5da3276d0cae4"
+metafile = true
+
+[[files]]
+file = "mods/flywheel.toml"
+hash = "0802907de3dfc4c15de546db252068e288f6ccca065f3db73db0d9ed35bfc5f9"
+metafile = true
+
+[[files]]
+file = "mods/forgery.toml"
+hash = "8ffa49657e2d2d83cb7a0364fd1af28fec324b9807ca9209fd87f5c4fbbfb730"
+metafile = true
+
+[[files]]
+file = "mods/immersive-portals-for-forge.toml"
+hash = "e8a525729e695f806fbe8c5febb774ea30de8ab7c9fcfe9c7be45319dd2ef83d"
+metafile = true
+
+[[files]]
+file = "mods/jei.toml"
+hash = "5cefa42ba8f3e255e9469f8bff8539c60619e4b2c785a397e780e21d1f7bbed0"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-forge.toml"
+hash = "791240d2f9fdda1fa0426558c53f263f6e919ecd56ddb41231434f98664cb3f6"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.toml"
+hash = "104dc0c241070a9ed8b601ad70b125a0cc23ea70ecc30885e3bfe24c4696d218"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfish-furniture-mod.toml"
+hash = "837e4f25b43750d2885e0e74f4784f00acb9e128f3f2ee01ea0954e27a4e08f1"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfishs-gun-mod.toml"
+hash = "cced16b6da6fbf197d3ee5a6db42752eeb9038faac68c1ab1f98598ef02fb6cf"
+metafile = true
+
+[[files]]
+file = "mods/mrcrayfishs-vehicle-mod.toml"
+hash = "d1f0c9d4efa5c9a245616615f089ae85d29a692e32c9ecb27f4e3a470729f8a2"
+metafile = true
+
+[[files]]
+file = "mods/obfuscate.toml"
+hash = "135fecc4a40beac5d5d91e9a753b535f93a49bc639bd7cac084d5e53bdb44efd"
+metafile = true
+
+[[files]]
+file = "mods/placebo.toml"
+hash = "4467f7b112af73c8dc9ab9890dcd2a52747f3a46466d5f76778e042128748025"
+metafile = true
+
+[[files]]
+file = "mods/quark-oddities.toml"
+hash = "5a7af733a13fb2b56509cffcce876987277c6c7912aa5e4ed67ab0d9ee6621c1"
+metafile = true
+
+[[files]]
+file = "mods/quark.toml"
+hash = "32a1e8920cc2dd267e48ebdf906d46cab46abaca9451d68dde16afb642ce8ef5"
+metafile = true
+
+[[files]]
+file = "mods/rhino.toml"
+hash = "71d551bba4e59a81f81f6df6a486b57b10c39f87ecd7eddacbebbb9f171fe59d"
+metafile = true
+
+[[files]]
+file = "mods/the-twilight-forest.toml"
+hash = "06b95c31df26a4b15f96eded5b4764528ba254a5ca0d58c8900867ef1e7c5901"
+metafile = true
+
+[[files]]
+file = "mods/toast-control.toml"
+hash = "6f556c1e1a6a77bef65a65e1ca797a15523c906bc503071dbd00b323c35fd16a"
+metafile = true

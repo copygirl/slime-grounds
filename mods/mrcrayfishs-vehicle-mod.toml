@@ -1,0 +1,14 @@
+name = "MrCrayfish's Vehicle Mod"
+filename = "vehicle-mod-0.45.2-1.16.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3103/940/vehicle-mod-0.45.2-1.16.3.jar"
+hash-format = "murmur2"
+hash = "2287524472"
+
+[update]
+[update.curseforge]
+file-id = 3103940
+project-id = 286660
+release-channel = "beta"
