@@ -3,8 +3,8 @@ filename = "DynamicSurroundings-1.16.4-4.0.4.2.jar"
 side = "client"
 
 [option]
+description = "Alters the player’s visual and audible experience in Minecraft"
 optional = true
-description = "Adds cool sound to the world"
 default = true
 
 [download]
