@@ -246,6 +246,11 @@ hash = "135fecc4a40beac5d5d91e9a753b535f93a49bc639bd7cac084d5e53bdb44efd"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.toml"
+hash = "1af774c30df06913ffc42dd980c02758fb3727263e426151e17a55c6ddf84ec7"
+metafile = true
+
+[[files]]
 file = "mods/placebo.toml"
 hash = "4467f7b112af73c8dc9ab9890dcd2a52747f3a46466d5f76778e042128748025"
 metafile = true
