@@ -2,6 +2,7 @@
 
 onEvent("item.registry", event => {
   event.create("raw_zinc").displayName("Raw Zinc");
+  event.create("coal_dust").displayName("Coal Dust");
 });
 
 onEvent("block.registry", event => {

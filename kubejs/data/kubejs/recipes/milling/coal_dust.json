@@ -1,0 +1,6 @@
+{
+  "type": "create:milling",
+  "ingredients": [{ "item": "minecraft:coal" }],
+  "results": [{ "item": "kubejs:coal_dust" }],
+  "processingTime": 250
+}

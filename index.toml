@@ -45,6 +45,10 @@ file = "kubejs/assets/kubejs/textures/block/raw_zinc_block.png"
 hash = "976c873ae4a877a140218e3494c95529a4c4aff10eb3d2df07de6e8f202ded9e"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/coal_dust.png"
+hash = "a7e8ea6ce7a472e5fbc8455b71222f227bf711a76e46de27b776394fa28700c7"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/raw_zinc.png"
 hash = "84bbe0a9d7236ff77dfed0972fe1e9cd7f4723b56eabb5472f84eeaf5233296c"
 
@@ -65,12 +69,24 @@ file = "kubejs/data/forge/tags/items/ores/zinc.json"
 hash = "cdf9d7b9f3ca00f8de47208388c34628096262594a66cc963231af4c4e35ca6e"
 
 [[files]]
-file = "kubejs/data/kubejs/recipes/raw_zinc_block.json"
+file = "kubejs/data/kubejs/recipes/crafting/raw_zinc_block.json"
 hash = "92965584aba242360c968fd0e3cc1495a4aec76945cb8a88d190dbdf160b74ea"
 
 [[files]]
-file = "kubejs/data/kubejs/recipes/raw_zinc_from_block.json"
+file = "kubejs/data/kubejs/recipes/crafting/raw_zinc_from_block.json"
 hash = "60ad0402dd1bc9159ea266290e600643c574e1b63f2c4a869e68706458e4a1a8"
+
+[[files]]
+file = "kubejs/data/kubejs/recipes/crushing/coal_dust.json"
+hash = "183195f470a4ef23f26f91ded44ff2b9d52e631c94e4eaa6de6b4c5ef4113664"
+
+[[files]]
+file = "kubejs/data/kubejs/recipes/milling/coal_dust.json"
+hash = "1aff24fc330502c949226e8d64bb26f2caea68ca474ed2e9949f63fbfa1d95df"
+
+[[files]]
+file = "kubejs/data/kubejs/recipes/mixing/fuelium.json"
+hash = "4c38764a45989d9395737dbc50aebb25959fdd9f62165ec8d81d16acbea8327f"
 
 [[files]]
 file = "kubejs/exported/tags/blocks.txt"
@@ -122,7 +138,7 @@ hash = "1691c7bdb843eefc625fcc957158f605dcf2002c699ef34c68221b8c79092936"
 
 [[files]]
 file = "kubejs/startup_scripts/registry.js"
-hash = "87be44a48d83cebd6ba1cb4acc7d4672c3ad9335351ac22334d53903871bf711"
+hash = "3f5e4d2d7a4683cbe09ed2a3412c4b06d1352f68d027c5971f4d2c1669178a43"
 
 [[files]]
 file = "mods/appleskin.toml"
