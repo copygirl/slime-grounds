@@ -147,7 +147,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-forge.toml"
-hash = "6ea0538e4af05279bd88256ee5baf4b3c77400e46b1358e95f04242a1cd9514e"
+hash = "f129d70b91715f23de3b9508e681212572d380cc79cfa6f443161d23179719b5"
 metafile = true
 
 [[files]]
@@ -162,7 +162,7 @@ metafile = true
 
 [[files]]
 file = "mods/cavebiomeapi.toml"
-hash = "b3e5e5dc5b64a4dd8ac098611b7ddd7a8ad5b25352b4bee3ddb6f670adf4dca5"
+hash = "a155f186b15edad3e8d840ff10532735c07b9929ea67d73900355509254f2bf2"
 metafile = true
 
 [[files]]
@@ -172,12 +172,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-stuff-additions.toml"
-hash = "a691033ae0cb02a96ebbbb1b3a7fe6cdab8385a33db350e9a83dc26c72e5dc1a"
+hash = "ee3f8a26746b5ee31c7306d3d98b8541f8dddd5a9a4359180f25d62e963efbae"
 metafile = true
 
 [[files]]
 file = "mods/create.toml"
-hash = "8675778e4bca8e8f9166a42ededd239b64f4898a313b25ab79f3b04b93011748"
+hash = "c9b94c89114636e59eb9633aee278d9355fb0b44c3e77d76b387ed713f8da505"
 metafile = true
 
 [[files]]
@@ -192,12 +192,12 @@ metafile = true
 
 [[files]]
 file = "mods/ferritecore.toml"
-hash = "b6481e286e28f957c75eb0b7a34ce4af856360031cdd8926a4d5da3276d0cae4"
+hash = "6caaf0a6ed4e1aaf052a6dffb8e4b9d98b4b77385e057731d7e11aa9fcb0bf83"
 metafile = true
 
 [[files]]
 file = "mods/flywheel.toml"
-hash = "0802907de3dfc4c15de546db252068e288f6ccca065f3db73db0d9ed35bfc5f9"
+hash = "7f7faf768330a6fd47e6dc9da35de6f5a5a97d109fcfd2e9f1b5323024d1ac4c"
 metafile = true
 
 [[files]]
@@ -212,12 +212,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.toml"
-hash = "5cefa42ba8f3e255e9469f8bff8539c60619e4b2c785a397e780e21d1f7bbed0"
+hash = "12db21073ce2e295c01abe6b3505a4c3b351bf063753f7b627873cf3e1aaa557"
 metafile = true
 
 [[files]]
 file = "mods/kubejs-forge.toml"
-hash = "791240d2f9fdda1fa0426558c53f263f6e919ecd56ddb41231434f98664cb3f6"
+hash = "f00fec8369ba3ac474b6b92d9ab4fc46f0d6d60728c1a5be4c1ea10b1fb05c91"
 metafile = true
 
 [[files]]
@@ -247,7 +247,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.toml"
-hash = "1af774c30df06913ffc42dd980c02758fb3727263e426151e17a55c6ddf84ec7"
+hash = "7dd28ae9df7dbc62a517b614b072fa4eb85936ef4e15594b15bcf14b53eb330a"
 metafile = true
 
 [[files]]
@@ -262,12 +262,12 @@ metafile = true
 
 [[files]]
 file = "mods/quark.toml"
-hash = "32a1e8920cc2dd267e48ebdf906d46cab46abaca9451d68dde16afb642ce8ef5"
+hash = "4f5b37c235a7b6b8ff54800cc22220647f5c8430dcf8df240483e8bde3837f5f"
 metafile = true
 
 [[files]]
 file = "mods/rhino.toml"
-hash = "71d551bba4e59a81f81f6df6a486b57b10c39f87ecd7eddacbebbb9f171fe59d"
+hash = "8b9dd06fbb8de11ffcb5166ddb6865320d6d8e6d50bfa23b3f4c113401cad883"
 metafile = true
 
 [[files]]

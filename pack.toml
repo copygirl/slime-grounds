@@ -1,11 +1,11 @@
 name = "Slime Grounds"
 author = "copygirl"
-version = "1.0.1"
+version = "1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "6ce6cc0918699ed47a8b93e556b6d80c988f120ea2a3f7b41894f0c19374bddc"
+hash = "c989f4dd6afcbb87b8a1631810215100d49f4ad1d6b279ee6d0d03975a689821"
 
 [versions]
 forge = "36.2.4"
